@@ -1,0 +1,13 @@
+>>> Bank Loan Default <<< "Suitable but needs to be gathered in one place"
+https://www.kaggle.com/pranati25/predict-loan-defaulters?select=disp.txt
+https://towardsdatascience.com/loan-default-prediction-an-end-to-end-ml-project-with-real-bank-data-part-1-1405f7aecb9e
+https://relational.fit.cvut.cz/dataset/Financial
+
+>>> Credit Card Fraud<<<
+https://www.kaggle.com/ealaxi/banksim1?select=bs140513_032310.csv
+
+>>> Electricity Consumption Fraud <<<
+https://www.kaggle.com/mrmorj/fraud-detection-in-electricity-and-gas-consumption?select=invoice_train.csv
+
+>>> HealthCare Fraud <<<
+https://www.kaggle.com/rohitrox/healthcare-provider-fraud-detection-analysis
