@@ -11,3 +11,9 @@ https://www.kaggle.com/mrmorj/fraud-detection-in-electricity-and-gas-consumption
 
 >>> HealthCare Fraud <<<
 https://www.kaggle.com/rohitrox/healthcare-provider-fraud-detection-analysis
+
+>>> Gas Sensor <<<
+https://archive.ics.uci.edu/ml/datasets/Gas+sensors+for+home+activity+monitoring#
+
+>>> Seizure Recognition <<<
+https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition
